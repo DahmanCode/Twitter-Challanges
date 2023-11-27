@@ -32,7 +32,6 @@ h2 {
   position: relative;
   width: 400px;
   height: 800px;
-  /* border: 2px solid gray; */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
   border-radius: 15px;
   padding: 6px 20px;
