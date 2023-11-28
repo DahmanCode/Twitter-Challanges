@@ -271,7 +271,6 @@ swiper-container {
   color: #585858;
   font-size: 1.1rem;
   font-family: 'Rubik', sans-serif;
-  /* font-family: 'IBM Plex Sans Arabic', sans-serif; */
 }
 
 .search-bar input::placeholder {
